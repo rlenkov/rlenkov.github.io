@@ -29,8 +29,6 @@ hr {
 }
 
 .skills {
-    position: relative;
-    left: -10px;
     font-family: 'Share Tech Mono', "Courier New", Courier, monospace;
     margin-top: 5px;
     padding: 10px;
